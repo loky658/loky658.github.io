@@ -1,0 +1,8 @@
+# ignore todas .log arquivos
+*.log
+
+# ignore todos os arquivos nesse diretorio
+temp/
+
+# arquivo secreto 
+/secreto.txt
